@@ -1,2 +1,3 @@
 # odin-recipes
-Odin practice project
+This is project:Recipes in for the Odin Project - Foundation's course.
+
